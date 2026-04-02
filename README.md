@@ -1,6 +1,6 @@
 # seed-viability-hybrid-modelling
 Literature-benchmarked proof-of-concept for modelling seed viability, germination, and dormancy using mechanistic theory, survival-style analysis, and hybrid machine learning.
-
+<img width="1091" height="814" alt="Screenshot 2026-04-02 at 16 48 00" src="https://github.com/user-attachments/assets/43b94853-2c97-412a-b3ab-0fd2934d64f2" />
 ## Overview
 
 This repository contains a computational proof-of-concept for modelling seed viability decline across storage time using a literature-benchmarked simulation framework, survival-style analysis, and hybrid machine learning. The project was designed to provide an interpretable and extensible analytical scaffold for studying how storage temperature, moisture, oxygen environment, packaging condition, and seed storage behaviour class influence seed persistence.
