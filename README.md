@@ -26,10 +26,10 @@ Model card describing the intended use, assumptions, inputs, outputs, limitation
 Datasheet describing the simulated dataset structure, variables, generation logic, intended use, and limitations.
 
 `figures/`  
-Publication-style figures exported from the notebook.
+figures exported from the notebook.
 
 `tables/`  
-Publication-style tables exported from the notebook.
+tables exported from the notebook.
 
 ## Scientific rationale
 
