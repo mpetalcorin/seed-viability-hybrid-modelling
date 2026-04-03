@@ -13,7 +13,7 @@ The project has five main aims. First, to simulate realistic longitudinal seed-l
 
 ## Repository contents
 
-`seed_viability_model_proof_of_concept_.ipynb`  
+`seed_viability_model_proof_of_concept.ipynb`  
 Main notebook containing the full proof-of-concept workflow with explanatory markdown, simulation code, modelling, visualization, and export steps.
 
 `README.md`  
